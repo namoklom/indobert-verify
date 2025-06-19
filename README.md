@@ -6,13 +6,13 @@
 |-----------------|-------------------|-----------------------------------------------|
 | Jason Emmanuel  | Full-Stack Engineer    | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
 
-IndoBERT Verify is an AI-powered system designed to detect hoaxes in Indonesian news articles. It leverages the power of the IndoBERT language model, which has been pre-trained specifically for the Indonesian language, making it well-suited for analyzing local news content.
+IndoBERT Verify is a robust AI-powered system developed to detect hoaxes in Indonesian news articles with high accuracy and interpretability. At its core is the IndoBERT language model, an Indonesian-specific BERT variant pre-trained on large-scale native text corpora. This tailored linguistic foundation allows the system to effectively analyze context, semantics, and phrasing that are unique to Indonesian media. As a result, it identifies misinformation more reliably than general-purpose language models.
 
-This system enables users to receive real-time predictions, allowing instant feedback on whether a piece of text is likely to be a hoax or not. The fast response time makes it ideal for use in dynamic environments such as journalism, education, and public communication.
+Designed for real-world use, IndoBERT Verify provides real-time predictions to determine whether a given news article is likely a hoax. Users can simply input text into the system and receive immediate results. This instant feedback makes the tool highly practical for journalists, educators, fact-checkers, researchers, and the general public who need fast and accurate credibility assessments without relying on manual verification.
 
-In addition to classification, IndoBERT Verify provides confidence scoring for each result. This score reflects how certain the model is about its prediction, giving users an added layer of insight and helping to assess the strength of the model’s judgment.
+In addition to its classification capabilities, the system offers detailed confidence scoring for each result. Rather than providing only a final label, IndoBERT Verify shows the probability of each class, such as "hoax" or "non-hoax." This scoring allows users to evaluate how certain the model is about its judgment, especially in ambiguous cases. It adds a valuable layer of transparency and can help organizations prioritize content that requires human review.
 
-Finally, the system offers transparent explanations through attention-based interpretability. Using explainable AI techniques, IndoBERT Verify highlights which words influenced the prediction the most, making the model's reasoning more understandable and trustworthy for end users.
+Another key feature is the system’s ability to explain its decisions through interpretable outputs. IndoBERT Verify uses attention-based explainable AI techniques to highlight which words in the input text had the greatest influence on the prediction. This visual feedback helps users understand why a particular result was generated, increasing trust in the model while also serving as an educational tool for spotting misinformation patterns in the language itself.
 
 ---
 
