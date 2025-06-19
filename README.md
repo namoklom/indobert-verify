@@ -117,7 +117,6 @@ The About Us page of the IndoBERT Verify application provides a concise overview
 | **Pandas**              | Data manipulation and preprocessing                                          |
 | **Matplotlib**          | Plotting library used for visualizing metrics like confusion matrices       |
 | **Seaborn**             | Statistical data visualization built on top of Matplotlib                   |
-| **Datasets**            | HuggingFace’s lightweight data container for training and testing datasets  |
 | **Regex (re)**          | Regular expressions for text cleaning                                       |
 | **NumPy**               | Numerical computing library used in preprocessing and metric handling       |
 | **Jupyter / Colab**     | (Optional) Development and experimentation environment                      |
