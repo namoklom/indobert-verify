@@ -1,4 +1,4 @@
-# IndoBERT Verify (AI-based Hoax Detection Application for Indonesian-language News)
+# IndoBERT Verify (AI-based Hoax Detection Application for Indonesian News)
 
 ## 👤 Author
 
