@@ -108,6 +108,7 @@ The About Us page of the IndoBERT Verify application provides a concise overview
 | **HTML**                | Markup language used to structure web page content                          |
 | **CSS**                 | Stylesheet language for designing and visually styling the frontend         |
 | **Flask**               | Lightweight Python backend framework for serving the API                    |
+| **Ngrok**               | Public URL tunneling to expose the local Flask API                          |
 | **Transformers**        | HuggingFace library for working with pre-trained NLP models                 |
 | **IndoBERT**            | Pretrained Indonesian BERT model used for hoax detection                    |
 | **PyTorch**             | Deep learning framework for model training and inference                    |
@@ -117,7 +118,6 @@ The About Us page of the IndoBERT Verify application provides a concise overview
 | **Matplotlib**          | Plotting library used for visualizing metrics like confusion matrices       |
 | **Seaborn**             | Statistical data visualization built on top of Matplotlib                   |
 | **Datasets**            | HuggingFace’s lightweight data container for training and testing datasets  |
-| **Ngrok**               | Public URL tunneling to expose the local Flask API                          |
 | **Regex (re)**          | Regular expressions for text cleaning                                       |
 | **NumPy**               | Numerical computing library used in preprocessing and metric handling       |
 | **Jupyter / Colab**     | (Optional) Development and experimentation environment                      |
