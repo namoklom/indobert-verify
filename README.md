@@ -73,7 +73,7 @@ The frontend communicates with the Flask backend through API calls to the expose
 
 ---
 
-## Application Overview
+## 🖥️ Application Overview
 
 ![Screenshot 2025-06-19 200909](https://github.com/user-attachments/assets/eebfd17a-f316-4dd0-9c9f-7f650743a5ca)
 
