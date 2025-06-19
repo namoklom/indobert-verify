@@ -97,8 +97,6 @@ The About Us page of the IndoBERT Verify application provides a concise overview
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 | Technology              | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | **Vue.js**              | Frontend framework for building interactive UIs                             |
