@@ -104,6 +104,9 @@ The About Us page of the IndoBERT Verify application provides a concise overview
 | **Vue.js**              | Frontend framework for building interactive UIs                             |
 | **Tailwind CSS**        | Utility-first CSS framework for fast styling                                |
 | **Vite**                | Lightning-fast frontend build tool and dev server                           |
+| **JavaScript**          | Core programming language used in frontend logic                            |
+| **HTML**                | Markup language used to structure web page content                          |
+| **CSS**                 | Stylesheet language for designing and visually styling the frontend         |
 | **Flask**               | Lightweight Python backend framework for serving the API                    |
 | **Transformers**        | HuggingFace library for working with pre-trained NLP models                 |
 | **IndoBERT**            | Pretrained Indonesian BERT model used for hoax detection                    |
