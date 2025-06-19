@@ -97,18 +97,27 @@ The About Us page of the IndoBERT Verify application provides a concise overview
 
 ## 🧰 Tech Stack
 
-| Technology              | Description                                                  |
-|-------------------------|--------------------------------------------------------------|
-| **Vue.js**              | Frontend framework for building interactive UIs              |
-| **Tailwind CSS**        | Utility-first CSS framework for fast styling                 |
-| **Vite**                | Lightning-fast frontend build tool and dev server            |
-| **Flask**               | Lightweight Python backend framework for serving the API     |
-| **Transformers**        | HuggingFace library for working with pre-trained NLP models  |
-| **PyTorch**             | Deep learning framework used to fine-tune IndoBERT           |
-| **Ngrok**               | Public URL tunneling for local Flask server                  |
-| **Transformers-Interpret** | Visualize model's word-level decision impact             |
-| **Scikit-learn**        | For classification metrics like accuracy and F1-score        |
-| **Pandas**              | Data manipulation and preprocessing                          |
+## 🧰 Tech Stack
+
+| Technology              | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Vue.js**              | Frontend framework for building interactive UIs                             |
+| **Tailwind CSS**        | Utility-first CSS framework for fast styling                                |
+| **Vite**                | Lightning-fast frontend build tool and dev server                           |
+| **Flask**               | Lightweight Python backend framework for serving the API                    |
+| **Transformers**        | HuggingFace library for working with pre-trained NLP models                 |
+| **IndoBERT**            | Pretrained Indonesian BERT model used for hoax detection                    |
+| **PyTorch**             | Deep learning framework for model training and inference                    |
+| **Transformers-Interpret** | Library for interpreting transformer models' predictions               |
+| **Scikit-learn**        | For label encoding and evaluation metrics like accuracy and F1-score        |
+| **Pandas**              | Data manipulation and preprocessing                                          |
+| **Matplotlib**          | Plotting library used for visualizing metrics like confusion matrices       |
+| **Seaborn**             | Statistical data visualization built on top of Matplotlib                   |
+| **Datasets**            | HuggingFace’s lightweight data container for training and testing datasets  |
+| **Ngrok**               | Public URL tunneling to expose the local Flask API                          |
+| **Regex (re)**          | Regular expressions for text cleaning                                       |
+| **NumPy**               | Numerical computing library used in preprocessing and metric handling       |
+| **Jupyter / Colab**     | (Optional) Development and experimentation environment                      |
 
 ---
 
