@@ -45,6 +45,8 @@ Model is trained using the [UMPO Hoax Dataset](https://github.com/) with the fol
 4. **Training** via HuggingFace `Trainer` API
 5. **Evaluation** with confusion matrix, precision, recall, F1-score
 
+![image](https://github.com/user-attachments/assets/d6a4a1ca-5ed5-4748-8f0c-81216ba50edb)
+
 ---
 
 ## 🚀 Backend (Flask + Transformers)
