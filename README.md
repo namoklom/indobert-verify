@@ -69,7 +69,7 @@ The frontend is a **Vue.js** application built with **Vite** and styled using **
 - Input news text manually.
 - Send the text to the backend for classification.
 - Display the predicted result with confidence scores.
-- Visualize keyword influence using color-coded highlights (if implemented).
+- Visualize keyword influence using color-coded highlights.
 
 The frontend communicates with the Flask backend through API calls to the exposed Ngrok URL.
 
