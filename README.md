@@ -83,7 +83,7 @@ The home page of the IndoBERT Verify application presents a sleek, dark-themed i
 
 ![Screenshot 2025-06-19 200951](https://github.com/user-attachments/assets/32aaa483-f4c5-447c-b4a0-2fda551b3fd6)
 
-The News Detection page of the IndoBERT Verify app allows users to input and analyze text to determine whether it's likely a hoax. In the screenshot example, a sample news article claiming NASA announced the sun will go dark for six days due to a “Galactic Blackout” is entered into the detection box. After clicking the “Detect” button, the system processes the input using a fine-tuned IndoBERT model and returns a prediction. In this case, the result displays a "Prediction: Likely Hoax" with a confidence score of 82.6%, indicating that the model strongly believes the news is not credible. Below the prediction
+The News Detection page of the IndoBERT Verify app allows users to input and analyze text to determine whether it's likely a hoax. In the screenshot example, a sample news article claiming NASA announced the sun will go dark for six days due to a “Galactic Blackout” is entered into the detection box. After clicking the “Detect” button, the system processes the input using a fine-tuned IndoBERT model and returns a prediction. In this case, the result displays a "Prediction: Likely Hoax" with a confidence score of 82.6%, indicating that the model strongly believes the news is not credible.
 
 ![Screenshot 2025-06-19 201005](https://github.com/user-attachments/assets/04019587-dd3c-4366-a16e-b1ce187dbba8)
 
