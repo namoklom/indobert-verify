@@ -89,7 +89,7 @@ The News Detection page of the IndoBERT Verify app allows users to input and ana
 
 The News Detection page of IndoBERT Verify not only displays the prediction result but also includes a powerful feature called Keyword Attributions, located just below the prediction section. This feature highlights individual words or phrases from the input text that had the most influence on the model's classification decision.
 
-In the example shown, each highlighted word (e.g., NASA, padam, badai, fenomena) is visually marked in light brown tags, making it easy for users to identify which parts of the sentence contributed most to the “Likely Hoax” prediction. This interpretability component is powered by transformers-interpret, providing transparency and building user trust by showing how and why the model arrived at its conclusion. It helps users not only see the result, but understand the reasoning behind it.
+In the example shown, each highlighted word (e.g., NASA, padam, badai, fenomena) is visually marked in orange tags, making it easy for users to identify which parts of the sentence contributed most to the “Likely Hoax” prediction. This interpretability component is powered by transformers-interpret, providing transparency and building user trust by showing how and why the model arrived at its conclusion. It helps users not only see the result, but understand the reasoning behind it.
 
 ![Screenshot 2025-06-19 201016](https://github.com/user-attachments/assets/f39f9b24-553b-4ccb-80c8-3ca1b1e99c9a)
 
